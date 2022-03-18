@@ -1,0 +1,16 @@
+{
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "description": "web scraping application",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bentike",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cli-table": "^0.3.11",
+    "request": "^2.88.2"
+  }
+}
